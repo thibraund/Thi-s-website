@@ -8,7 +8,7 @@
 <body>
   <style>
 body {
-        color:red
+        color: red;
 }
 </style>
   <div class="w3-container w3-red">
