@@ -41,8 +41,9 @@ body {
     <p>so if you take this site down your just sad :)</p>
   </div>
 </div>
+
 function myFunction() {
-  document.getElementById("demo1").innerHTML = "Hello Friend!";
+  document.getElementById("demo1").innerHTML = "Hello Dolly!";
   document.getElementById("demo2").innerHTML = "How are you?";
 }
 
