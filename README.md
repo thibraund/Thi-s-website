@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
+    
     function myFunction() {
   document.getElementById("demo1").innerHTML = "Hello Friend!";
   document.getElementById("demo2").innerHTML = "How are you?";
 }
-
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
