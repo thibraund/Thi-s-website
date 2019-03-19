@@ -4,12 +4,12 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
-  <div class="w3-container w3-green">
+  <div class="w3-container w3-red">
   <h1>This website was made by thi dont hate</h1> 
   <p>Resize this responsive page!</p> 
 </div>
 
-<div class="w3-container w3-green">
+<div class="w3-container w3-blue">
   <h1>Hello and welcome to my website enjoy</h1> 
   <p>Resize this responsive page!</p> 
 </div>
