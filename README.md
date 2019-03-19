@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html>
+  <head>
+
+</head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
-  
+  <style>
+body {
+        color:red
+}
+</style>
   <div class="w3-container w3-red">
   <h1>This website was made by thi dont hate</h1> 
   <p>Resize this responsive page!</p> 
 </div>
 
-<div class="w3-container w3-blue">
+<div class="w3-container w3-red">
   <h1>Hello and welcome to my website enjoy</h1> 
   <p>Resize this responsive page!</p> 
 </div>
